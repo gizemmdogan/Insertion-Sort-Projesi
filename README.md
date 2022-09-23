@@ -49,3 +49,18 @@ Big-O gösterimini yazınız.
 * [16] [11,21] [8] [12,22]
 * [11,16,21] [8,12,22]
 * [8,11,12,16,21,22]
+
+## Binary-Search-Tree Sort
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+          [5]
+       /       \ 
+    [1]         [7]
+   /   \        /  \
+[0]    [3]     [6]  [8]
+       / \             \
+    [2] [4]              [9]
+
+Root 5
