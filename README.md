@@ -3,16 +3,16 @@ Backend eğitiminde Insertion Sort Projesi
 # Soru 1
 [22,27,16,2,18,6] -> Insertion Sort
 
-[22,27,16,2,18,6]
-[2,27,16,22,18,6]
-[2,6,16,22,18,27]
-[2,6,16,18,22,27]
+* [22,27,16,2,18,6]
+* [2,27,16,22,18,6]
+* [2,6,16,22,18,27]
+* [2,6,16,18,22,27]
  
- O(n)
+ O(n^2)
 
- Average case: n^2
- Worst case: n^2
- Best case: n
+- Average case: n^2
+- Worst case: n^2
+- Best case: n
 
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız. Average case
 
